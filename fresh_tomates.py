@@ -1,7 +1,7 @@
 import webbrowser
 import os
 import re
-"""This class is created by Udacity"""
+
 # Styles and scripting for the page
 main_page_head = '''
 <!DOCTYPE html>
